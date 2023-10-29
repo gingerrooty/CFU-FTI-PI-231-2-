@@ -4,10 +4,10 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
-| [1. Приближенное значение Пи]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
-| [2. Кислород]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
-| [3. Частное]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
-| [4. Произведение]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [1. Приближенное значение Пи](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/3ef7f201c1cf5e027e897eb8a4ddfcd8f0cc7769/course_01/contest_01/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [2. Кислород](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/5d7c8d6dbe7814364d4cbf91db387d6dba2edfc9/course_01/contest_01/02.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [3. Частное](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/5d7c8d6dbe7814364d4cbf91db387d6dba2edfc9/course_01/contest_01/03.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [4. Произведение](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/5d7c8d6dbe7814364d4cbf91db387d6dba2edfc9/course_01/contest_01/04.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [5. Индекс массы тела]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [6. Банкомат]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [7. Максимум из двух чисел]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
