@@ -18,7 +18,7 @@
 | [12. Гипотеза Коллатца](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/12.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [13. Вывод чисел волнами](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/13.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [14. Таблица умножения](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/14.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
-| [15. RLE сжатие]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [15. RLE сжатие](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [16. Сглаживание графика Погоды]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [17. Дождь над островом]() | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [18. Заголовок столбца Excel](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/18.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
