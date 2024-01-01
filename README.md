@@ -24,3 +24,18 @@
 | [18. Заголовок столбца Excel](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/18.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [19. Подходящие Слова](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/19.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [20. Анаграмма. 2 числа](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/f1a30546298c5f8b7be6fa3d9424b2fa73f0c9e0/course_01/contest_01/20.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+
+|[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
+| --- | :-: |
+| [1. Функция. Простое число](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [2. Функция. Выход из лабиринта](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/02.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [3. Функция. Сортировка по количеству единиц](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/03.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [4. Функция. Сумма дробей](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/04.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [5. Структура. Комплексное число](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [6. Список студентов](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/06.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [7. Кандидаты на отчисление](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [8. Функция. Палиндром с игнорированием](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/08.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [9. Функция. Счастливый билет](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/2e24c44ae68d6934c80880085ce670c72640c155/course_01/contest_02/09.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [10. Функция. Сдвиг элементов массива](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [11. Функция. Валидатор судоку](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [12. Функция. Сапёр (поле)](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
