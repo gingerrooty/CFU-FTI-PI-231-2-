@@ -52,7 +52,7 @@
 | [8. Уникальное число](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/08.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [9. Подходящая пара чисел](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/09.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 
-|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
 | [1. Количество выполненных задач](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/28ff887dd1a1f8ff5bfc7c5030f54369c392ae2e/course_01/contest_04/01/01.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [2. Количество выполненных задач](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
