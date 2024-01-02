@@ -78,7 +78,7 @@
 | --- | :-: |
 | [1. Класс. RunnableСlock(не сделал)]
 
-|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
 | --- | :-: |
-| [1. Никаких секретов](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/c7cea97450cce367dd9d8d4290ce4c6153453013/course_01/contest_08/01.cpp) | ![] (https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [1. Никаких секретов](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/c7cea97450cce367dd9d8d4290ce4c6153453013/course_01/contest_08/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [Все остальные не сделаны, я забыл про этот контест :/]
