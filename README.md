@@ -58,3 +58,13 @@
 | [2. Количество выполненных задач](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [3. Титаник](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/28ff887dd1a1f8ff5bfc7c5030f54369c392ae2e/course_01/contest_04/03/Titanic.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [4. Титаник](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/28ff887dd1a1f8ff5bfc7c5030f54369c392ae2e/course_01/contest_04/04/Titanic.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [2. Класс. Чайник](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/02.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [3. Класс. Комплексное число](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [4. Класс. Point](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/04/04.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [5. Класс. Большое целое число](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [6. Get a cat](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/06.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [7. Класс. Чайник(ошибка)](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/07(CE).go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
