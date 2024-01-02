@@ -39,3 +39,15 @@
 | [10. Функция. Сдвиг элементов массива](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [11. Функция. Валидатор судоку](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [12. Функция. Сапёр (поле)](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [2. Валидатор скобочной последовательности](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/02.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [3. Обратная польская нотация](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [4. Общие слова в последовательностях](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/04.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [5. Самое частое слово](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/05.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [6. Баланс пользователя](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/06.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [7. Какое следующее слово](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [8. Уникальное число](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/08.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+| [9. Подходящая пара чисел](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/4cd0d9b8aca8ac10889a3036147ab78ed2f586b9/course_01/contest_03/09.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
