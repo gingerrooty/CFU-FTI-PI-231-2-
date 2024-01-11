@@ -68,3 +68,17 @@
 | [5. Класс. Большое целое число](не сделал) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
 | [6. Get a cat](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/06.go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
 | [7. Класс. Чайник(ошибка)](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/00411aaea8a0548fc708b08c2dd82f0e5b912e7c/course_01/contest_05/07(CE).go) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/go.png) |
+
+|[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| --- | :-: |
+| [1. Класс. Shape](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/ebb9b938eab3ce014542671f29ca3c067242fd89/course_01/contest_06/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [2. Класс. Менеджер(ошибка)](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/ebb9b938eab3ce014542671f29ca3c067242fd89/course_01/contest_06/02.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock(не сделал)]
+
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1. Никаких секретов](https://github.com/gingerrooty/CFU-FTI-PI-231-2-/blob/c7cea97450cce367dd9d8d4290ce4c6153453013/course_01/contest_08/01.cpp) | ![](https://raw.githubusercontent.com/VladimirChabanov/alg_and_prog_2023_prt/main/img/cpp.png) |
+| [Все остальные не сделаны, я забыл про этот контест :/]
